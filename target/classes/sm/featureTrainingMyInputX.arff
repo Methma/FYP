@@ -1,0 +1,35 @@
+@relation featureTrainingMyInputX
+
+@attribute pos_count {1.0,0.0,pos_count}
+@attribute neg_count {0.0,neg_count}
+@attribute pos_emo {0.0,pos_emo}
+@attribute neg_emo {0.0,2.0,neg_emo}
+@attribute len_score {0.0,len_score}
+@attribute sentiment {Positive,sentiment}
+
+@data
+1.0,0.0,0.0,0.0,0.0,Positive
+0.0,0.0,0.0,0.0,0.0,Positive
+0.0,0.0,0.0,2.0,0.0,Positive
+pos_count,neg_count,pos_emo,neg_emo,len_score,sentiment
+1.0,0.0,0.0,0.0,0.0,Positive
+0.0,0.0,0.0,0.0,0.0,Positive
+0.0,0.0,0.0,2.0,0.0,Positive
+pos_count,neg_count,pos_emo,neg_emo,len_score,sentiment
+1.0,0.0,0.0,0.0,0.0,Positive
+1.0,0.0,0.0,0.0,0.0,Positive
+0.0,0.0,0.0,0.0,0.0,Positive
+0.0,0.0,0.0,2.0,0.0,Positive
+pos_count,neg_count,pos_emo,neg_emo,len_score,sentiment
+1.0,0.0,0.0,0.0,0.0,Positive
+0.0,0.0,0.0,0.0,0.0,Positive
+0.0,0.0,0.0,2.0,0.0,Positive
+pos_count,neg_count,pos_emo,neg_emo,len_score,sentiment
+1.0,0.0,0.0,0.0,0.0,Positive
+0.0,0.0,0.0,0.0,0.0,Positive
+0.0,0.0,0.0,2.0,0.0,Positive
+pos_count,neg_count,pos_emo,neg_emo,len_score,sentiment
+1.0,0.0,0.0,0.0,0.0,Positive
+1.0,0.0,0.0,0.0,0.0,Positive
+0.0,0.0,0.0,0.0,0.0,Positive
+0.0,0.0,0.0,2.0,0.0,Positive

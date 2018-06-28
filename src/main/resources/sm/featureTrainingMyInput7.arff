@@ -1,0 +1,13 @@
+@relation featureTrainingMyInput7
+
+@attribute pos_count numeric
+@attribute neg_count numeric
+@attribute pos_emo numeric
+@attribute neg_emo numeric
+@attribute len_score numeric
+@attribute sentiment {Positive}
+
+@data
+1,0,0,0,0,Positive
+0,0,0,0,0,Positive
+0,0,0,2,0,Positive

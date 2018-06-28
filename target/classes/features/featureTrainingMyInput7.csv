@@ -1,0 +1,4 @@
+pos_count,neg_count,pos_emo,neg_emo,len_score,sentiment
+1,0,0,0,0,Positive
+0,0,0,0,0,Positive
+0,0,0,2,0,Positive

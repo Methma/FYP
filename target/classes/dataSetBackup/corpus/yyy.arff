@@ -1,0 +1,9 @@
+@relation yyy
+
+@attribute name {meth,ish,chum}
+@attribute age numeric
+
+@data
+meth,25
+ish,25
+chum,25
